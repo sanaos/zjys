@@ -48,22 +48,6 @@
         "changeable": 1
     },
     {
-        "key": "py_emby2",
-        "name": "EMBY2",
-        "type": 3,
-        "api": "./py_emby_new.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-            "server": "http://cf.emby.moe:80",
-            "username": "Doctl",
-            "password": "",
-            "thread": 0
-        },
-        "changeable": 1
-    },
-    {
         "key": "网盘配置",
         "name": "网盘及彈幕配置",
         "type": 3,
